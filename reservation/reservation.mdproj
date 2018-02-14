@@ -19,6 +19,7 @@
     <None Include="src\domain\For_bussiness_logic.txt" />
     <None Include="src\handler\For_controller.txt" />
     <None Include="src\infrastructure\student\repository.go" />
+    <None Include="src\templates\menu.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="src\" />
@@ -32,5 +33,6 @@
     <Folder Include="src\domain\" />
     <Folder Include="src\domain\entity\" />
     <Folder Include="src\infrastructure\student\" />
+    <Folder Include="src\templates\" />
   </ItemGroup>
 </Project>
