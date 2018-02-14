@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "reservation", "reservation\reservation.mdproj", "{4BCB070A-DC63-48B6-9E14-7EFA0BD10DB5}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "reservation", "reservation.mdproj", "{4BCB070A-DC63-48B6-9E14-7EFA0BD10DB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

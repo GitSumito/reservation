@@ -19,6 +19,7 @@ func main() {
     flag.Parse()
 
     // Init gin
+    // port
     r := gin.Default()
 
     // Set routing
